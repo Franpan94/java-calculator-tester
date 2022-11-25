@@ -41,7 +41,7 @@ public class javaCalculatorTest {
       }
       
       @Test
-      @DisplayName("test per formulare la divisione")
+      @DisplayName("test per formulare la moltiplicazione")
       void multiply() {
     	  jvc = new javaCalculator();
     	  float res = jvc.multiply(4, 2);
